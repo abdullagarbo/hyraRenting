@@ -260,35 +260,6 @@
       "RatingCount": 1,
       "InventoryCount": 8,
       "DateCreated": "2019-01-31 16:24:09"
-    },
-    {
-      "ProductID": 8099,
-      "SKU": "PCH-8475",
-      "Name": "Cup of Joe Pillow",
-      "ProductURL": "https://www.domain.com/product/pch-8475",
-      "Price": 36,
-      "RetailPrice": 36,
-      "ThumbnailURL": "https://www.domain.com/images/pch-8475_600x600.png",
-      "SearchKeywords": "lorem, ipsum, dolor, ...",
-      "Description": "Sociosqu facilisis duis ...",
-      "Category": "Pillows",
-      "CategoryID": 298,
-      "Brand": "FabDecor",
-      "ChildSKU": "",
-      "ChildPrice": "",
-      "Color": "Seafoam Green",
-      "ColorFamily": "Green",
-      "ColorSwatches": "",
-      "Size": "",
-      "ShoeSize": "",
-      "PantsSize": "",
-      "Occassion": "",
-      "Season": "",
-      "Badges": "",
-      "RatingAvg": 4,
-      "RatingCount": 1,
-      "InventoryCount": 18,
-      "DateCreated": "2018-02-28 19:03:26"
     }
   ]
 }
