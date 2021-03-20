@@ -1,4 +1,4 @@
-const categories = [
+[
   {
     "Id": 1,
     "Category": "Bilder",
