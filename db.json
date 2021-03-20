@@ -4,26 +4,6 @@
       "Id": 1,
       "Category": "Bilder",
       "ImageURL": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?cs=srgb&dl=berg-dslr-fotografi-kamera-212372.jpg&fm=jpg"
-    },
-    {
-      "Id": 2,
-      "Category": "Drone",
-      "ImageURL": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?cs=srgb&dl=dronare-flygande-grej-kamera-724921.jpg&fm=jpg"
-    },
-    {
-      "Id": 3,
-      "Category": "Video spel",
-      "ImageURL": "https://images.pexels.com/photos/275033/pexels-photo-275033.jpeg?cs=srgb&dl=elektronisk-fortnite-fritid-gamepad-275033.jpg&fm=jpg"
-    },
-    {
-      "Id": 4,
-      "Category": "Kläder & väskor",
-      "ImageURL": "https://images.pexels.com/photos/994523/pexels-photo-994523.jpeg?cs=srgb&dl=affar-blandad-bomull-boutique-994523.jpg&fm=jpg"
-    },
-    {
-      "Id": 5,
-      "Category": "Sport",
-      "ImageURL": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?cs=srgb&dl=anstrangning-ben-bodybuilding-crossfit-841130.jpg&fm=jpg"
     }
   ]
 }
