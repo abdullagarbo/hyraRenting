@@ -482,35 +482,6 @@
       "RatingCount": 15,
       "InventoryCount": 30,
       "DateCreated": "2018-03-03 17:38:50"
-    },
-    {
-      "ProductID": 6060,
-      "SKU": "VBH-V5102",
-      "Name": "Sunset Boulevard Pants",
-      "ProductURL": "https://www.domain.com/product/vbh-v5102",
-      "Price": 44,
-      "RetailPrice": 60,
-      "ThumbnailURL": "https://www.domain.com/images/vbh-v5102_600x600.png",
-      "SearchKeywords": "lorem, ipsum, dolor, ...",
-      "Description": "Sociosqu facilisis duis ...",
-      "Category": "Bottoms",
-      "CategoryID": "236|204",
-      "Brand": "Monolith",
-      "ChildSKU": "VBH-V5102-WHT-24|VBH-V5102-WHT-25|VBH-V5102-WHT-26|VBH-V5102-WHT-27|VBH-V5102-BEG-24|VBH-V5102-BEG-25|VBH-V5102-BEG-26|VBH-V5102-BEG-27|VBH-V5102-BEG-30|VBH-V5102-BEG-31",
-      "ChildPrice": "",
-      "Color": "White|Beige",
-      "ColorFamily": "White|Beige",
-      "ColorSwatches": "[{\"color\":\"White\", \"family\":\"White\", \"swatch_hex\":\"#ffffff\", \"thumbnail\":\"/images/vbh-v5102-wht-24_600x600.png\", \"price\":44}, {\"color\":\"Beige\", \"family\":\"Beige\", \"swatch_hex\":\"#f5f5dc\", \"thumbnail\":\"/images/vbh-v5102-bge-24_600x600.png\", \"price\":44}]",
-      "Size": "",
-      "ShoeSize": "",
-      "PantsSize": "24|25|26|27|30|31",
-      "Occassion": "",
-      "Season": "",
-      "Badges": "",
-      "RatingAvg": 3.8,
-      "RatingCount": 33,
-      "InventoryCount": 1,
-      "DateCreated": "2018-02-28 23:57:53"
     }
   ]
 }
